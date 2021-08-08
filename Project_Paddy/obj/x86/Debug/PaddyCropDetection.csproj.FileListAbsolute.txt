@@ -1,0 +1,97 @@
+D:\New Project-2018\ENG\GCESEN\Half\PaddyCropDetection\PaddyCropDetection\bin\Debug\Farmer_Friend_Application.exe
+D:\New Project-2018\ENG\GCESEN\Half\PaddyCropDetection\PaddyCropDetection\bin\Debug\Farmer_Friend_Application.pdb
+D:\New Project-2018\ENG\GCESEN\Half\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.csprojResolveAssemblyReference.cache
+D:\New Project-2018\ENG\GCESEN\Half\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.Binaryimage.resources
+D:\New Project-2018\ENG\GCESEN\Half\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.Colorfeature.resources
+D:\New Project-2018\ENG\GCESEN\Half\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.FeatureExtract.resources
+D:\New Project-2018\ENG\GCESEN\Half\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.Form1.resources
+D:\New Project-2018\ENG\GCESEN\Half\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.Loadimage.resources
+D:\New Project-2018\ENG\GCESEN\Half\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.Morphology.resources
+D:\New Project-2018\ENG\GCESEN\Half\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.Preprocessing.resources
+D:\New Project-2018\ENG\GCESEN\Half\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\Farmer_Friend_Application.Properties.Resources.resources
+D:\New Project-2018\ENG\GCESEN\Half\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.Start.resources
+D:\New Project-2018\ENG\GCESEN\Half\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.csproj.GenerateResource.Cache
+D:\New Project-2018\ENG\GCESEN\Half\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\Farmer_Friend_Application.exe
+D:\New Project-2018\ENG\GCESEN\Half\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\Farmer_Friend_Application.pdb
+D:\New Project-2018\ENG\GCESEN\Half\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.DetectionImage.resources
+D:\New Project-2018\ENG\GCESEN\Half\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.ColorFeature1.resources
+D:\NewProject2019\UGPROJECT\National\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\Farmer_Friend_Application.exe
+D:\NewProject2019\UGPROJECT\National\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\Farmer_Friend_Application.pdb
+D:\NewProject2019\UGPROJECT\National\PaddyCropDetection\PaddyCropDetection\bin\Debug\Farmer_Friend_Application.exe
+D:\NewProject2019\UGPROJECT\National\PaddyCropDetection\PaddyCropDetection\bin\Debug\Farmer_Friend_Application.pdb
+D:\NewProject2019\UGPROJECT\National\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.csprojResolveAssemblyReference.cache
+D:\NewProject2019\UGPROJECT\National\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.Binaryimage.resources
+D:\NewProject2019\UGPROJECT\National\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.Colorfeature.resources
+D:\NewProject2019\UGPROJECT\National\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.ColorFeature1.resources
+D:\NewProject2019\UGPROJECT\National\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.DetectionImage.resources
+D:\NewProject2019\UGPROJECT\National\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.FeatureExtract.resources
+D:\NewProject2019\UGPROJECT\National\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.Form1.resources
+D:\NewProject2019\UGPROJECT\National\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.Loadimage.resources
+D:\NewProject2019\UGPROJECT\National\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.Morphology.resources
+D:\NewProject2019\UGPROJECT\National\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.Preprocessing.resources
+D:\NewProject2019\UGPROJECT\National\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\Farmer_Friend_Application.Properties.Resources.resources
+D:\NewProject2019\UGPROJECT\National\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.Start.resources
+D:\NewProject2019\UGPROJECT\National\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.csproj.GenerateResource.Cache
+G:\NewProject2020-21\PGproject\KKC\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\Farmer_Friend_Application.exe
+G:\NewProject2020-21\PGproject\KKC\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\Farmer_Friend_Application.pdb
+G:\NewProject2020-21\PGproject\KKC\PaddyCropDetection\PaddyCropDetection\bin\Debug\Farmer_Friend_Application.exe
+G:\NewProject2020-21\PGproject\KKC\PaddyCropDetection\PaddyCropDetection\bin\Debug\Farmer_Friend_Application.pdb
+G:\NewProject2020-21\PGproject\KKC\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.csprojResolveAssemblyReference.cache
+G:\NewProject2020-21\PGproject\KKC\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.Binaryimage.resources
+G:\NewProject2020-21\PGproject\KKC\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.Colorfeature.resources
+G:\NewProject2020-21\PGproject\KKC\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.ColorFeature1.resources
+G:\NewProject2020-21\PGproject\KKC\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.DetectionImage.resources
+G:\NewProject2020-21\PGproject\KKC\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.FeatureExtract.resources
+G:\NewProject2020-21\PGproject\KKC\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.Form1.resources
+G:\NewProject2020-21\PGproject\KKC\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.Loadimage.resources
+G:\NewProject2020-21\PGproject\KKC\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.Morphology.resources
+G:\NewProject2020-21\PGproject\KKC\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.Preprocessing.resources
+G:\NewProject2020-21\PGproject\KKC\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\Farmer_Friend_Application.Properties.Resources.resources
+G:\NewProject2020-21\PGproject\KKC\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.Start.resources
+G:\NewProject2020-21\PGproject\KKC\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.csproj.GenerateResource.Cache
+G:\NewProject2020-21\PGproject\KKC\PaddyCropDetection\PaddyCropDetection\bin\Debug\paddydb.mdf
+G:\NewProject2020-21\PGproject\KKC\PaddyCropDetection\PaddyCropDetection\bin\Debug\paddydb_log.ldf
+G:\NewProject2020-21\PGproject\KKC\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\Farmer_Friend_Application.Login.resources
+G:\NewProject2020-21\PGproject\KKC\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\Farmer_Friend_Application.Regsister.resources
+C:\Users\Maran\Desktop\Project\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\Farmer_Friend_Application.exe
+C:\Users\Maran\Desktop\Project\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\Farmer_Friend_Application.pdb
+C:\Users\Maran\Desktop\Project\PaddyCropDetection\PaddyCropDetection\bin\Debug\paddydb.mdf
+C:\Users\Maran\Desktop\Project\PaddyCropDetection\PaddyCropDetection\bin\Debug\paddydb_log.ldf
+C:\Users\Maran\Desktop\Project\PaddyCropDetection\PaddyCropDetection\bin\Debug\Farmer_Friend_Application.exe
+C:\Users\Maran\Desktop\Project\PaddyCropDetection\PaddyCropDetection\bin\Debug\Farmer_Friend_Application.pdb
+C:\Users\Maran\Desktop\Project\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.csprojResolveAssemblyReference.cache
+C:\Users\Maran\Desktop\Project\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.Binaryimage.resources
+C:\Users\Maran\Desktop\Project\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.Colorfeature.resources
+C:\Users\Maran\Desktop\Project\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.ColorFeature1.resources
+C:\Users\Maran\Desktop\Project\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.DetectionImage.resources
+C:\Users\Maran\Desktop\Project\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.FeatureExtract.resources
+C:\Users\Maran\Desktop\Project\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.Form1.resources
+C:\Users\Maran\Desktop\Project\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.Loadimage.resources
+C:\Users\Maran\Desktop\Project\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\Farmer_Friend_Application.Login.resources
+C:\Users\Maran\Desktop\Project\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.Morphology.resources
+C:\Users\Maran\Desktop\Project\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.Preprocessing.resources
+C:\Users\Maran\Desktop\Project\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\Farmer_Friend_Application.Properties.Resources.resources
+C:\Users\Maran\Desktop\Project\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\Farmer_Friend_Application.Regsister.resources
+C:\Users\Maran\Desktop\Project\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.Start.resources
+C:\Users\Maran\Desktop\Project\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.csproj.GenerateResource.Cache
+D:\Project\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\Farmer_Friend_Application.exe
+D:\Project\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\Farmer_Friend_Application.pdb
+D:\Project\PaddyCropDetection\PaddyCropDetection\bin\Debug\paddydb.mdf
+D:\Project\PaddyCropDetection\PaddyCropDetection\bin\Debug\paddydb_log.ldf
+D:\Project\PaddyCropDetection\PaddyCropDetection\bin\Debug\Farmer_Friend_Application.exe
+D:\Project\PaddyCropDetection\PaddyCropDetection\bin\Debug\Farmer_Friend_Application.pdb
+D:\Project\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.csprojResolveAssemblyReference.cache
+D:\Project\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.Binaryimage.resources
+D:\Project\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.Colorfeature.resources
+D:\Project\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.ColorFeature1.resources
+D:\Project\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.DetectionImage.resources
+D:\Project\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.FeatureExtract.resources
+D:\Project\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.Form1.resources
+D:\Project\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.Loadimage.resources
+D:\Project\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\Farmer_Friend_Application.Login.resources
+D:\Project\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.Morphology.resources
+D:\Project\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.Preprocessing.resources
+D:\Project\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\Farmer_Friend_Application.Properties.Resources.resources
+D:\Project\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\Farmer_Friend_Application.Regsister.resources
+D:\Project\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.Start.resources
+D:\Project\PaddyCropDetection\PaddyCropDetection\obj\x86\Debug\PaddyCropDetection.csproj.GenerateResource.Cache
